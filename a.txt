@@ -1,0 +1,11 @@
+commit aebe9bfb4bf29e1b5027971dadac678f293c2ebb
+Author: hank <matheus_bueno10@hotmail.com>
+Date:   Tue Dec 7 12:58:29 2021 -0300
+
+    feat: removido b e d
+
+commit 17d022ec44b426ac440be44ad2851bb3f6bcf89f
+Author: hank <matheus_bueno10@hotmail.com>
+Date:   Tue Dec 7 12:58:03 2021 -0300
+
+    initial commit
